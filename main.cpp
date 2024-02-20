@@ -81,7 +81,6 @@ private:
         setupDebugMessenger();
     }
 
-
     void mainLoop()
     {
         while (!glfwWindowShouldClose(window))
