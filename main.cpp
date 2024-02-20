@@ -48,7 +48,6 @@ void DestroyDebugUtilsMessengerEXT(VkInstance instance,
     }
 }
 
-
 class HelloTriangleApplication
 {
 public:
