@@ -396,3 +396,6 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+.idea/.idea.MyVulkan_Test/.idea/encodings.xml
+.idea/.idea.MyVulkan_Test/.idea/indexLayout.xml
+.idea/.idea.MyVulkan_Test/.idea/vcs.xml
